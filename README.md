@@ -22,7 +22,7 @@ This project uses machine learning models to predict housing prices in Nepal bas
    ```bash
    git clone https://github.com/GiriHridaya319/Nepali-Housing-Price-Prediction.git
    cd Nepali-Housing-Price-Prediction
-````
+
 
 2. **Install required packages:**
 
